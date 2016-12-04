@@ -4,6 +4,6 @@ angular.module('homeCtrl', [])
 function home(){
 	var vm = this;
 
-	vm.title = "Welcome to Vizdea Market!";
-	vm.subtitle = "Outdoor gear & equipment marketplace.";
+	vm.title = "Welcome to Marketplace!";
+	vm.subtitle = "A basic marketplace application built with Angular v1.";
 }

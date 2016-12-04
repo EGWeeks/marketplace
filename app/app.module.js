@@ -1,1 +1,1 @@
-angular.module('market',['routeConfig', 'homeCtrl']);
+angular.module('marketplace',['routeConfig', 'homeCtrl']);
