@@ -2,7 +2,7 @@
 
 ##Technology
 
-* [Scalable File Structure](https://scotch.io/tutorials/angularjs-best-practices-directory-structure)
+* [Scalable App Structure](https://scotch.io/tutorials/angularjs-best-practices-directory-structure)
 
 * Angular 1
 	* [ngRoute](https://docs.angularjs.org/api/ngRoute)
