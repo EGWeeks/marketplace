@@ -6,4 +6,9 @@
 
 * Angular 1
 	* [ngRoute](https://docs.angularjs.org/api/ngRoute)
-	* [loading bar](http://chieffancypants.github.io/angular-loading-bar)
+	* [UI Bootstrap](https://angular-ui.github.io/bootstrap/)
+	* [Animate](https://docs.angularjs.org/api/ngAnimate)
+	* [Loading Bar](http://chieffancypants.github.io/angular-loading-bar)
+
+* CSS
+	* [Bootstrap](http://getbootstrap.com/)
