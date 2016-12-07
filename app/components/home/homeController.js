@@ -8,8 +8,8 @@ function home($scope){
 	vm.subtitle = "A basic marketplace application built with Angular v1.";
 
 	$scope.slides = [
-		{src: './assets/img/download.jpeg',  caption: 'Picture 1'},    
-		{src: './assets/img/download1.jpeg', caption: 'Picture 2'},    
-		{src: './assets/img/download2.jpeg', caption: 'Picture 3'}
+		{src: './assets/img/fo-micah-h.jpg',  caption: 'snowy hills'},    
+		{src: './assets/img/austin-neill.jpg', caption: 'yosemite night'},    
+		{src: './assets/img/geran-de-klerk.jpg', caption: 'tree top'}
 	];
 }
