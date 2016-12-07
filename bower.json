@@ -1,20 +1,28 @@
 {
-  "name": "client",
+  "name": "Marketplace",
+  "homepage": "https://github.com/EGWeeks/marketplace",
   "authors": [
-    "Ethan Weeks customerservice@vizdea.co"
+    "CustomerService@vizdea.co"
   ],
-  "description": "Market place for selling outdoor gear ",
-  "main": "",
+  "description": "Marketplace",
+  "main": "index.html",
   "moduleType": [],
+  "keywords": [
+    "Marketplace",
+    "ecommerce",
+    "store"
+  ],
   "license": "MIT",
-  "homepage": "",
   "ignore": [
     "**/.*",
     "bower_components",
     "test",
     "tests"
   ],
-  "resolutions": {
-    "angular": "1.6.0-rc.2"
+  "dependencies": {
+    "angular": "1.5.9",
+    "angular-route": "1.5.9",
+    "angular-loading-bar": "0.9.0",
+    "bootstrap": "3.3.7"
   }
 }
