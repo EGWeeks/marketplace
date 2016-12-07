@@ -3,7 +3,7 @@ angular.module('carousel', [])
     return {
       restrict: 'E',
       scope: {
-        links: '='
+        slides: '='
       },
       templateUrl: './app/shared/carousel/carouselView.html',
       link: function(scope, element) {
